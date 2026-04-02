@@ -46,7 +46,6 @@ Some of the main things I found:
 - Some areas perform better than others  
 - High sales don’t always mean high profit  
 
----
 
 ## Recommendations
 Based on the analysis, the business can:
@@ -58,6 +57,7 @@ Based on the analysis, the business can:
 
 ## Dashboard Preview
 
+![1000652853](https://github.com/user-attachments/assets/f7f8e168-464a-4c1f-95cb-64fd7bc1255c)
 
 ---
 
@@ -69,4 +69,6 @@ Based on the analysis, the business can:
 I am an aspiring data analyst with a background in Economics, interested in using data to solve real-world business problems.
 
 ## 🔗 Connect With Me
-- LinkedIn:https://www.linkedin.com/in/asisipho-mbiko-69b27324a⁠
+- LinkedIn:https://www.linkedin.com/in/asisipho-mbiko-69b27324a⁠![1000652853](https://github.com/user-attachments/assets/14a3c823-8f70-41a7-9388-5d6e46a637a5)
+![1000652853](https://github.com/user-attachments/assets/f57a9a4c-8191-45d0-a81a-964469d9403a)
+
